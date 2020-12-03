@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b41a60dae40b1c4686a053b9d5dae54, type: 3}
+  m_Name: Alignment
+  m_EditorClassIdentifier: 
+  filter: {fileID: 11400000, guid: 76bf2a601a1937942897edeca8cb1c03, type: 2}
